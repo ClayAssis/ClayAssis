@@ -1,7 +1,10 @@
 # Olá! Eu sou Claydson Bezerra! | Hi there! I'm Claydson Bezerra!
-## - Cientista de dados | Data scientist
-## - Analista de dados | Data analyst
-## - Bioinformata | Bioinformatics
+
+<dl>  
+  <dt>- Cientista de dados | Data scientist</dt>
+  <dt>- Analista de dados | Data analyst</dt>
+  <dt>- Bioinformata | Bioinformatics</dt>
+</dl>
 <div align="center">
   <a href="https://github.com/clayassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clayassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
