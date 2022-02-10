@@ -1,4 +1,4 @@
-# Olá! Eu sou Claydson Bezerra! | Hi there! I'm Claydson Bezerra!
+# Olá! Eu sou Claydson Bezerra! | _Hi there! I'm Claydson Bezerra!_
 ### - _Cientista de dados | Data scientist_
 ### - _Analista de dados | Data analyst_
 ### - _Bioinformata | Bioinformatics_
