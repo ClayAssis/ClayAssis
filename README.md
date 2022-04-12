@@ -1,10 +1,6 @@
 
 # Olá! Eu sou **Claydson Bezerra**! | _Hi there! I'm **Claydson Bezerra**!_
 
-### - _Cientista de dados | Data scientist_
-### - _Analista de dados | Data analyst_
-### - _Bioinformata | Bioinformatics_
-
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 <p align='center'>
@@ -43,6 +39,30 @@ The main objective of this data science personal project portfolio is to demonst
  
 </div>
 
+### - _Cientista de dados | Data scientist_
+### - _Analista de dados | Data analyst_
+### - _Bioinformata | Bioinformatics_
+
+I am a Data Science and Data analyst currently Freelance.
+My main object is to build data-product powered by Machine Learning to increase company revenue and reduce costs as well.
+
+I completed the undergraduate course in Biological Sciences at Universidade Santa Úrsula. I entered as an intern (scientific initiation) in the ornithology sector of the National Museum/UFRJ where he developed his monograph on taxonomy. While still at this institution, studying a postgraduate course in Zoology, I also completed a Master's degree in taxonomy and developed my Doctorate in Molecular Systematics and Taxonomy. I have a Post-Doctorate at the University of São Paulo and at the Federal University of Riode Janeiro.
+
+During this period I developed my skills in data analysis, machine learning and bioinformatics. With that I gained vast knowledge in tools like Python and R. I also worked in several research groups and supervised master's and doctoral students.
+
+As a professional, I always pushed myself forward to learn skills to become an independent Data Scientist, able to build an end-to-end project, since the data collection up to ML models creation and deployment. 
+
+At this point in my career, I feel confident about my expertise and ability to build relevant solutions to improve company results and thus, make me an outstanding professional.
+
+## **Analytical Tools** 
+
+**Data Collect and Storage:** SQL.
+
+**Data Processing and Analysis:** R, Python, .
+
+**Development Tools:** Git, heroku and Linux.
+
+**Machine Learning:** Classification, Regression, Clustering, Time Series, Reinforcement Learning and Deep learning (image classification).
 
 ## Data Science Projects:
 
