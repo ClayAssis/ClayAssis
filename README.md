@@ -69,7 +69,7 @@ At this point in my career, I feel confident about my expertise and ability to b
 
 ### [BirdVisionBR]( https://github.com/ClayAssis/BirdVisionBR )
 
-The project aims to generate a classifier and object detection of Brazilian Birds by image. For this, photos from the WikiAves website (https://www.wikiaves.com.br/) are being used used.
+The project focuses on leveraging Yolov8, ViT, and traditional methods to develop a classifier and object detection system for Brazilian Birds through image analysis. To achieve this, the project utilizes photos sourced from the WikiAves website (https://www.wikiaves.com.br/), enabling a comprehensive understanding of Brazil's avian biodiversity. By combining state-of-the-art deep learning techniques like Yolov8 and Vision Transformer (ViT) with traditional methods, the project aims to achieve accurate identification and localization of Brazilian Birds in images. The rich dataset from WikiAves serves as a valuable resource, enabling the model to learn and generalize patterns effectively. Ultimately, this project contributes to conservation efforts and enhances our understanding of Brazil's diverse bird species.
 
 ### [BirdCalls]( https://github.com/ClayAssis/BirdCalls )
 
