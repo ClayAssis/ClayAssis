@@ -73,7 +73,7 @@ The project aims to generate a classifier and object detection of Brazilian Bird
 
 ### [BirdCalls]( https://github.com/ClayAssis/BirdCalls )
 
-App to encourage bird watching by giving access to Xeno Canto recordings for playback. Still a very early project
+App for IOS/Android to encourage bird watching by giving access to Xeno Canto recordings for playback. Still a very early project
 
 ### [Cardiovascular Disease Detection]( https://github.com/ClayAssis/Predicting-Cardiovascular-Diseases )
 
