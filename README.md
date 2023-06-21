@@ -67,6 +67,10 @@ At this point in my career, I feel confident about my expertise and ability to b
 
 ## Data Science Projects:
 
+### BirdVisionBR
+
+The project aims to generate a classifier and object detection of Brazilian Birds by image. For this, photos from the WikiAves website (https://www.wikiaves.com.br/) are being used used.
+
 ### [Cardiovascular Disease Detection]( https://github.com/ClayAssis/Predicting-Cardiovascular-Diseases )
 
 Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals.  
