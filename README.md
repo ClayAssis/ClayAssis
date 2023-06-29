@@ -101,15 +101,7 @@ However, the sales team has the capacity to make 20 thousand calls within the ca
 
 ### [Insiders Clustering]( https://github.com/ClayAssis/insiders-clustering) 
 
-Insurance All is a company that provides vehicle insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: health insurance.
-
-As with vehicle insurance, customers of this new health insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
-
-Insurance All conducted a survey of about 380,000 customers about their interest in joining a new health insurance product last year. All customers expressed interest or not in purchasing health insurance and these responses were saved in a database along with other customer attributes.
-
-The product team selected 127 thousand new customers who did not respond to the survey to participate in a campaign, in which they will receive the offer of the new health insurance product. The offer will be made by the sales team through telephone calls.
-
-However, the sales team has the capacity to make 20 thousand calls within the campaign period.
+The business problem is selecting customers to create a loyalty program called Insiders. A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel.
 
 ### [Housing market speculation]( https://github.com/ClayAssis/House-Rocket) 
 
