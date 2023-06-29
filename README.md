@@ -87,6 +87,7 @@ The performance of this model would increase **revenue of U$81.2 millions** acco
 Machine Learning and taking fraud detection to the next level. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
 In this project, I built a Machine Learning classifier to label fraudulent transactions with **99.63% of accuracy.**
 The performance of this model would bring **revenue of U$877,5 millions** according to the company's business model described in the problem definition.
+
 ### [Health Insurance Cross-Sell]( https://github.com/ClayAssis/HEALTH-INSURANCE-CROSS-SELL-PREDICTION ) 
 
 Insurance All is a company that provides vehicle insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: health insurance.
@@ -105,37 +106,18 @@ The business problem is selecting customers to create a loyalty program called I
 
 ### [Housing market speculation]( https://github.com/ClayAssis/House-Rocket) 
 
-Insurance All is a company that provides vehicle insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: health insurance.
+House Rocket is a digital platform whose business model is the purchase and sale of properties using technology. House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities. 
+Its main strategy is to buy good houses in great locations with low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit and therefore the greater its revenue. However, houses have many attributes that make them more or less attractive to buyers and sellers, and the location and time of year can also influence prices. Therefore, the company's CEO asked for a scenarios business simulation and answers for the following questions:
 
-As with vehicle insurance, customers of this new health insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
-
-Insurance All conducted a survey of about 380,000 customers about their interest in joining a new health insurance product last year. All customers expressed interest or not in purchasing health insurance and these responses were saved in a database along with other customer attributes.
-
-The product team selected 127 thousand new customers who did not respond to the survey to participate in a campaign, in which they will receive the offer of the new health insurance product. The offer will be made by the sales team through telephone calls.
-
-However, the sales team has the capacity to make 20 thousand calls within the campaign period.
+Which houses should the company buy and at what price?
+Once the house is in the company's possession, what is the best time to sell it and what would be the sale price?
+Should the company make a renovation to increase the price of the sale? What would be the suggestions for changes?
 
 
 ### [Rossmann Sales Prediction]( https://github.com/ClayAssis/Product-sales-Rossman) 
 
-Insurance All is a company that provides vehicle insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: health insurance.
-
-As with vehicle insurance, customers of this new health insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
-
-Insurance All conducted a survey of about 380,000 customers about their interest in joining a new health insurance product last year. All customers expressed interest or not in purchasing health insurance and these responses were saved in a database along with other customer attributes.
-
-The product team selected 127 thousand new customers who did not respond to the survey to participate in a campaign, in which they will receive the offer of the new health insurance product. The offer will be made by the sales team through telephone calls.
-
-However, the sales team has the capacity to make 20 thousand calls within the campaign period.
+An end-to-end Data Science project with a regression adapted for time series as solution was created four machine learning models to forecast the sales. Predictions can be accessed by users through a bot from the smartphone app Telegram. This repository contains the solution for a Kaggle competition problem: https://www.kaggle.com/c/rossmann-store-sales. This project is part of the "Data Science Community" (Comunidade DS), a study environment to promote, learn, discuss and execute Data Science projects. For more information, please visit (in portuguese): https://sejaumdatascientist.com/ The goal of this Readme is to show the context of the problem, the steps taken to solve it, the main insights and the overall performance.
 
 ### [Automated-Hyperparameter-Tuning-For-Depp-Neural-Network]( https://github.com/ClayAssis/Automated-Hyperparameter-Tuning-For-Depp-Neural-Network ) 
 
-Insurance All is a company that provides vehicle insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: health insurance.
-
-As with vehicle insurance, customers of this new health insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
-
-Insurance All conducted a survey of about 380,000 customers about their interest in joining a new health insurance product last year. All customers expressed interest or not in purchasing health insurance and these responses were saved in a database along with other customer attributes.
-
-The product team selected 127 thousand new customers who did not respond to the survey to participate in a campaign, in which they will receive the offer of the new health insurance product. The offer will be made by the sales team through telephone calls.
-
-However, the sales team has the capacity to make 20 thousand calls within the campaign period.
+How you can do Hyperparameter Optimization for a NeuralNetwork automatically using Optuna. This is an end-to-end code in which I select a problem and design a neural network in PyTorch and then I find the optimal number of layers, drop out, learning rate, and other parameters using Optuna. This code is base in aproach by Abhishek Thakur. The dataset used was "Mechanisms of Action (MoA) Prediction".
